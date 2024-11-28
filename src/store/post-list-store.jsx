@@ -71,22 +71,6 @@ const DEFAULT_POST_LIST = [
     userId: "user-12",
     tags: ["Graduating", "Unbelievable"],
   },
-  {
-    id: "4",
-    title: "Learnig React",
-    body: "You should know how to make web requests in your chosen programming language. We have included some crude ways to do this in our examples below",
-    reactions: 5,
-    userId: "user-12",
-    tags: ["Graduating", "Unbelievable"],
-  },
-  {
-    id: "5",
-    title: "Doing DataS tructures",
-    body: "The main use of News API is to search through every article published by over 150,000 news sources and blogs in",
-    reactions: 13,
-    userId: "user-12",
-    tags: ["Graduating", "Unbelievable"],
-  },
 ];
 
 export default PostListProvider;
